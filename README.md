@@ -1,0 +1,1 @@
+# Projeto-Codificador-Binario---C
